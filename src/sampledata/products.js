@@ -2,15 +2,15 @@
 
 /**
  * @typedef {Object} Product
- * @property {number} id
- * @property {string} name
- * @property {number} price
- * @property {string} category
- * @property {string} description
- * @property {string} image
- * @property {boolean} inStock
- * @property {number} rating
- * @property {number} stockQuantity
+ * @property {number} id - The unique identifier of the product. typically numbers.
+ * @property {string} name - The name of the product.
+ * @property {number} price - Price of the products to the 2nd decimal place.
+ * @property {string} category - Product category e.g Living, Bedding, Dining.
+ * @property {string} description - A short description of what the product is.
+ * @property {string} image - The link to the image of the product.
+ * @property {boolean} inStock - Whether it is available or not.
+ * @property {number} rating - A number of the average rating. Between 1 and 5
+ * @property {number} stockQuantity - The number of units available for the product.
  */
 
 /** @type {Product[]} */
