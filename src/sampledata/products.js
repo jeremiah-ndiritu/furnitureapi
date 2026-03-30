@@ -21,7 +21,7 @@ export const products = [
         price: 899.99,
         category: "Dining",
         description: "Solid oak dining table with clean lines and natural wood finish. Seats 6 comfortably. Timeless Scandinavian design.",
-        image: "https://www.pinterest.com/pin/4602397439253389952/",
+        image: "https://i.pinimg.com/1200x/16/22/3c/16223c882122c40b1010e914f7fb2d2b.jpg",
         inStock: true,
         rating: 4.8,
         stockQuantity: 12
